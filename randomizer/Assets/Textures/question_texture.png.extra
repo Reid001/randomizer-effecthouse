@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "afb2fb92-14b5-be1c-0291-b63b20f969d0",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "question_texture",
+    "objGuid": "Guid(18032491362166037066, 143350776822932391)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "md5": "5b1957c0c65dfad2c119291011848cbe",
+    "compressionType": 2,
+    "quality": 0,
+    "maxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 1,
+    "wrapModeT": 1,
+    "wrapModeR": 1,
+    "premultiplyAlpha": true
+  }
+]

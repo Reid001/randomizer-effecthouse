@@ -1,0 +1,29 @@
+%YAML 1.1
+--- !Material &1
+name: Occluder
+guid: {a: 18393764290465811153, b: 7978515751280436379}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-000000000071--00000000-0000-0000-0000-000000000071.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 1531850640853358378, b: 17953192708996027064}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+  AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""

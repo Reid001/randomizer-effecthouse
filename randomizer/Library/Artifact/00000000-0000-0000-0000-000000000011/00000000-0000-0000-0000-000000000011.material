@@ -1,0 +1,27 @@
+%YAML 1.1
+--- !Material &1
+name: Error
+guid: {a: 4054320393529696007, b: 12260397663407988632}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-000000000011--00000000-0000-0000-0000-000000000011.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 10612439050284122926, b: 3201869266332148657}
+  floatmap:
+    __class: Map
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""
