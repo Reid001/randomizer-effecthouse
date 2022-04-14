@@ -326,7 +326,7 @@ entities:
         name: ""
         guid: {a: 12989949263514307859, b: 9242156974559957895}
         enabled: true
-        animSeq: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+        animSeq: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
         texName: _AlbedoTexture
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -339,7 +339,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          texture_sequence: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+          texture_sequence: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
     layer: 0
   - __class: Entity
     name: Head
@@ -384,7 +384,7 @@ entities:
         name: ""
         guid: {a: 9963465763644095011, b: 8905155470694437265}
         enabled: true
-        animSeq: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+        animSeq: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
         texName: _AlbedoTexture
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -397,7 +397,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          texture_sequence: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+          texture_sequence: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
     layer: 0
   - __class: Entity
     name: question_plane_1
@@ -442,7 +442,7 @@ entities:
         name: ""
         guid: {a: 13206762450756499167, b: 16761642883793237917}
         enabled: true
-        animSeq: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+        animSeq: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
         texName: _AlbedoTexture
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -455,7 +455,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          texture_sequence: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+          texture_sequence: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
     layer: 0
   - __class: Entity
     name: question_plane_2
@@ -540,7 +540,7 @@ entities:
         name: ""
         guid: {a: 17819965767343259454, b: 6276671269371670663}
         enabled: true
-        animSeq: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+        animSeq: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
         texName: _AlbedoTexture
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -553,7 +553,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          texture_sequence: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+          texture_sequence: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
     layer: 0
   - __class: Entity
     name: Head
@@ -618,7 +618,7 @@ entities:
         name: ""
         guid: {a: 1678278475098289006, b: 11935391918705886101}
         enabled: true
-        animSeq: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+        animSeq: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
         texName: _AlbedoTexture
         frameName: _MainTex_ST
         frameRotateName: _Atlas_Rotated
@@ -631,7 +631,7 @@ entities:
         autoplay: false
         animSeqMap:
           __class: Map
-          texture_sequence: {localId: 7, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
+          texture_sequence: {localId: 8, path: dd92cc1c-e31b-46c4-b2cb-8f79c271aba5--dd92cc1c-e31b-46c4-b2cb-8f79c271aba5.seq}
     layer: 0
   - __class: Entity
     name: question_plane_4

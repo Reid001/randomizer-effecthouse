@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "question_texture",
-    "objGuid": "Guid(18032491362166037066, 143350776822932391)",
+    "objGuid": "Guid(8090924745623203401, 2749785273868787902)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

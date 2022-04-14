@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "texture_sequence",
-    "objGuid": "Guid(18324100182506253087, 13174454367882375087)",
+    "objGuid": "Guid(13207697183524170116, 10301507305124207031)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

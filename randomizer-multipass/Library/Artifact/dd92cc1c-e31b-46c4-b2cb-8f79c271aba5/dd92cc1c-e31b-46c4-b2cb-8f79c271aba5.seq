@@ -1,7 +1,7 @@
 %YAML 1.1
---- !AnimSeq &8
+--- !AnimSeq &9
 name: texture_sequence
-guid: {a: 18324100182506253087, b: 13174454367882375087}
+guid: {a: 13207697183524170116, b: 10301507305124207031}
 assettype:
   __class: SeqAssetType
   value: atlas

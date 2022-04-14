@@ -1,11 +1,11 @@
 %YAML 1.1
 --- !ImageAtlas &1
 name: ""
-guid: {a: 13352928826383533219, b: 15636803481915466383}
+guid: {a: 5279398995307584788, b: 18200674368519310741}
 frames:
   - __class: ImageFrame
     name: ""
-    guid: {a: 4126061170229259850, b: 8133515963001890196}
+    guid: {a: 11188109635593709308, b: 13559116413765676961}
     rotate:
       __class: RotateType
       value: ROTATE_0
