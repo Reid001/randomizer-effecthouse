@@ -14,6 +14,5 @@ Bugs & Future Improvements:
 - Add tap to record
 - Remove "Display question when face appears logic"
 - rename startingIndexPrivate -> _startingFrameIndex
-- rename lastFrameIndex -> _lastFrameIndex
 - explain how to easily swap out my images for your images
 
