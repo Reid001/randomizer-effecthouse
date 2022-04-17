@@ -17,3 +17,4 @@ https://youtu.be/1lBOjXhiMdQ
 
 Bugs & Future Improvements:
 - rename startingIndexPrivate -> _startingFrameIndex
+- Included screenshots of each patch
