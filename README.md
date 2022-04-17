@@ -5,7 +5,10 @@ An Effect House randomizer filter.
 Features:
 - Support for upto 5 faces
 
-Tutorial https://www.youtube.com/watch?v=1WKMnoHo0G0
+Randomizer Tutorial for Effect House - Part 1
+https://youtu.be/1WKMnoHo0G0
+Randomizer Tutorial for Effect House - Part 2
+https://youtu.be/1lBOjXhiMdQ
 
 
 Bugs & Future Improvements:
