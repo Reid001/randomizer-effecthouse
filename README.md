@@ -2,9 +2,11 @@
 
 An Effect House randomizer filter for TikTok. Features better randomization and support for up to 5 faces
 
-randomizer - the orignial randomizer from the tutorial
+[Download demo assets here.](/assets/)
 
-randomizer-multipass - a variant of the original that will show multiple results, staggered.
+[randomizer](/randomizer/) - the orignial randomizer from the tutorial
+
+[randomizer-multipass](/randomizer-multipass/) - a variant of the original that will show multiple results, staggered.
 
 
 Randomizer Tutorial for Effect House - Part 1
