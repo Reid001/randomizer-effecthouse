@@ -4,7 +4,7 @@ An Effect House randomizer filter for TikTok. Features better randomization and 
 
 [Download demo assets here.](/assets/)
 
-[randomizer](/randomizer/) - the orignial randomizer from the tutorial
+[randomizer](/randomizer/) - the orignial randomizer Effect House project file from the tutorial
 
 [randomizer-multipass](/randomizer-multipass/) - a variant of the original that will show multiple results, staggered.
 
