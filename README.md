@@ -13,5 +13,6 @@ An Effect House randomizer filter for TikTok. Features better randomization and 
 [Randomizer Tutorial for Effect House - Part 2](https://youtu.be/1lBOjXhiMdQ)
 
 Bugs & Future Improvements:
-- rename startingIndexPrivate -> _startingFrameIndex
+- Rename startingIndexPrivate -> _startingFrameIndex
 - Included screenshots of each patch
+- Replace Random 0-80 -> Round / Random 0-80.999 -> Floor
